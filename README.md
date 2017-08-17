@@ -1,7 +1,7 @@
 # Object-oriented_Design
 
 ## ToDoList
-- [ ] List all knowledge points we need to conquer 
+- [ ] List all **knowledge points** we need to conquer 
 
 
 ## Reference:
