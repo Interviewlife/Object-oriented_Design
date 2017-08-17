@@ -3,4 +3,4 @@
 
 
 ## Reference:
-![Graphic Design Patterns]https://design-patterns.readthedocs.io/zh_CN/latest/
+![Graphic Design Patterns](https://design-patterns.readthedocs.io/zh_CN/latest/)
